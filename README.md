@@ -25,3 +25,7 @@ Synthetic leases and underwriting assumptions; no actual rent roll, lender agree
 
 ## Lineage and authorship
 Consolidates existing research modules; original repositories remain as history. This is AI-assisted portfolio research, not code represented as deployed at a financial institution.
+
+## CRE underwriting framework
+
+[DCF periods, terminal cap rates, NOI, lease structures and net absorption](CRE_FRAMEWORK.md). The guide separates implemented assumptions from market/lease diligence inputs; no formal valuation-standard compliance is claimed.
